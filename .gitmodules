@@ -1,0 +1,3 @@
+[submodule "deps/datastructs"]
+	path = deps/datastructs
+	url = https://github.com/yunag/datastructs
